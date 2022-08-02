@@ -5,17 +5,17 @@
 - Git: https://git-scm.com/downloads
 
 ## Powershell
-OBS: N�o se esque�a de configurar o powershell com o comando abaixo (como administrador):
+OBS: Nao se esqueca de configurar o powershell com o comando abaixo (como administrador):
 ```
 Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser
 ```
 
-#Comandos
-##Ambiente de desenvolvimento:
-Abaixo est� uma lista dos comandos mais utilizados:
-1. Cria��o do ambiente virtual
+# Comandos
+## Ambiente de desenvolvimento:
+Abaixo esta uma lista dos comandos mais utilizados:
+1. Criacao do ambiente virtual
 	python -m venv venv
-2. Ativa��o do ambiente virutal
+2. Ativacao do ambiente virutal
 	.venv\Scripts\activate
 3. Instalando django
 	pip install django
@@ -24,7 +24,7 @@ Abaixo est� uma lista dos comandos mais utilizados:
 5. Executar servidor 
 	python manage.py runserver
 
-##Git
+## Git
 1. Inicializando o git
 	git init
 2. Config. o usarname
@@ -35,12 +35,12 @@ Abaixo est� uma lista dos comandos mais utilizados:
 	got --global init.defaultBranch main
 5. Gerando chave ssh
 	ssh-keygen
-6. Adicionar reposit�rio
-	git remote add origin *link do reposit�rio*
-7. Puxar reposit�rio
-	git pull *reposit�rio*
+6. Adicionar repositorio
+	git remote add origin *link do repositorio*
+7. Puxar repositorio
+	git pull *repositorio*
 8. Adicionar commits
 	git add *
 9. Enviar commits
-	git push *reposit�rio*
+	git push *repositorio*
 	
