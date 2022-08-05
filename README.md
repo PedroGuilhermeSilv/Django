@@ -44,3 +44,5 @@ Abaixo esta uma lista dos comandos mais utilizados:
 9. Enviar commits
 	git push *repositorio*
 	
+# Anotacoes 
+- Ao adicionar um app deve informado ao django sua existencia em settings.py.
