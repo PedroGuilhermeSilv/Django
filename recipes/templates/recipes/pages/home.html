@@ -1,15 +1,21 @@
 {% include 'recipes/partials/head.html' %}
 
 <body>
-    <header class="main-header-container">
-        <class class="main-header container">
-            <a href="">
-                <h1><i class="fas fa-address-book"></i><span>Home {{name}}</span> </h1>
-            </a>
-        </class>
+{% include 'recipes/partials/header.html' %}
+{% include 'recipes/partials/search.html' %}
+<main class="main-content-container">
+    <div class="main-content main-content-list container">
+        {% include 'recipes/partials/recipe.html' %}
+        {% include 'recipes/partials/recipe.html' %}
+        {% include 'recipes/partials/recipe.html' %}
+        {% include 'recipes/partials/recipe.html' %}
+        {% include 'recipes/partials/recipe.html' %}
+        {% include 'recipes/partials/recipe.html' %}
+        {% include 'recipes/partials/recipe.html' %}
 
-    </header>
-
+</div>
+</main>
+    {% include 'recipes/partials/footer.html'  %}
 </body>
 
 </html>
