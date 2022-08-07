@@ -46,4 +46,4 @@ Abaixo esta uma lista dos comandos mais utilizados:
 	
 # Anotacoes 
 - Ao adicionar um app deve informado ao django sua existencia em settings.py.
-- Para retorna um objeto o html bast utiliar "{{objeto}}".
+- Para retorna um objeto no html basta utilizar "{{objeto}}".
