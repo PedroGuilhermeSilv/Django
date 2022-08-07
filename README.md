@@ -47,3 +47,4 @@ Abaixo esta uma lista dos comandos mais utilizados:
 # Anotações 
 - Ao adicionar um app deve informado ao django sua existencia em settings.py.
 - Para retorna um objeto no html basta utilizar "{{objeto}}".
+- Para comandos executáveis usamos "{% if for  %}".
