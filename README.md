@@ -44,6 +44,6 @@ Abaixo esta uma lista dos comandos mais utilizados:
 9. Enviar commits
 	git push *repositorio*
 	
-# Anotacoes 
+# Anotações 
 - Ao adicionar um app deve informado ao django sua existencia em settings.py.
 - Para retorna um objeto no html basta utilizar "{{objeto}}".
