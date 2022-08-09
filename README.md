@@ -48,3 +48,9 @@ Abaixo esta uma lista dos comandos mais utilizados:
 - Ao adicionar um app deve informado ao django sua existencia em settings.py.
 - Para retorna um objeto no html basta utilizar "{{objeto}}".
 - Para comandos executáveis usamos "{% if for  %}".
+- Para adicionar caminhos específicos para arquivos estáticos usa-se STATICFILES_DIRS=[].
+
+# Documentação 
+## links
+- https://docs.djangoproject.com/pt-br/3.2/topics/http/urls/ URLS.
+- https://docs.djangoproject.com/pt-br/3.2/howto/static-files/ Arquivos estáticos.
