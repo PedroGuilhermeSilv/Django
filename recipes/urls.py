@@ -21,7 +21,9 @@ from recipes.views import home
 
 from . import views
 
+app_name = 'recipes'
+
 urlpatterns = [
-    path('', views.home),  # Home
-    path('recipes/<int:id>/', views.recipe),  # Home
+    path('', views.home, name='home'),  # Home
+    path('recipes/<int:id>/', views.recipe,name='recipe'),  # Home
 ]

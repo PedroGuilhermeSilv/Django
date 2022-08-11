@@ -54,3 +54,4 @@ Abaixo esta uma lista dos comandos mais utilizados:
 ## links
 - https://docs.djangoproject.com/pt-br/3.2/topics/http/urls/ URLS.
 - https://docs.djangoproject.com/pt-br/3.2/howto/static-files/ Arquivos estáticos.
+- https://docs.djangoproject.com/pt-br/3.2/ref/templates/builtins/#ref-templates-builtins-tags filtros.
