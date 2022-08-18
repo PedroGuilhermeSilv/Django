@@ -56,3 +56,4 @@ Abaixo esta uma lista dos comandos mais utilizados:
 - https://docs.djangoproject.com/pt-br/3.2/howto/static-files/ Arquivos estáticos.
 - https://docs.djangoproject.com/pt-br/3.2/ref/templates/builtins/#ref-templates-builtins-tags filtros.
 - https://docs.djangoproject.com/pt-br/3.2/ref/models/fields/ MODELS
+- https://docs.djangoproject.com/pt-br/3.2/ref/models/querysets/ API QUerySet.
